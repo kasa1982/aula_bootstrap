@@ -1,0 +1,21 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quem-somos {
+    background-color: aliceblue;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: antiquewhite;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
